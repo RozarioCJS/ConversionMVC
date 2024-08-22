@@ -6,6 +6,14 @@
     <h1 class="display-4 main-title">Image Converter</h1>
     <p>Convert images for free, simply drop your image below</p>
     <div class="image-drop">
-        
+
+        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="UploadImage">
+
+            <h2>Choose image</h2>
+
+            <input name="image" type="file" accept="image/*" />
+
+            <input class="btn btn-outline-primary" type="submit" value="Upload"/>
+        </form>
     </div>
 </div>
