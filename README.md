@@ -1,4 +1,4 @@
-ASP.NET Core MVC Project
+<h1>ASP.NET Core MVC Project</h1>
 
 This is a very basic image conversion project, converts images to jpg files
 
