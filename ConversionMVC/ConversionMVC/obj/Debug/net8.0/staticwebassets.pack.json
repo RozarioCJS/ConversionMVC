@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\github.svg",
+      "PackagePath": "staticwebassets\\github.svg"
+    },
+    {
       "Id": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jcuubjuzw+Poi3rc80QuBG9ED3xQoHihqt6gZWQnO9c=",
+  "Hash": "2SKdT8YE/x1Ai28ZpuYDRhvTtw1Ym5mF8HEiSZtcAlE=",
   "Source": "ConversionMVC",
   "BasePath": "_content/ConversionMVC",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\github.svg",
+      "SourceId": "ConversionMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\",
+      "BasePath": "_content/ConversionMVC",
+      "RelativePath": "github.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\github.svg"
     },
     {
       "Identity": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\js\\site.js",

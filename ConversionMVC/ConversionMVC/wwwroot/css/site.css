@@ -32,3 +32,6 @@ ul.nav-list {
     border: 3px dotted blue;
     padding: 5em;
 }
+a {
+    text-decoration: none;
+}
