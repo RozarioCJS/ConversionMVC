@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ConversionMVC.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\Z-convertIcon.ico",
+      "PackagePath": "staticwebassets\\Z-convertIcon.ico"
+    },
+    {
       "Id": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

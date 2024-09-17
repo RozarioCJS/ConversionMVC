@@ -1,27 +1,28 @@
 ﻿@model ImageTypeViewModel
 @{
-    ViewData["Title"] = "Image Converter";
+    ViewData["Title"] = "Z-Convert";
 }
+<body>
+    <div class="text-center">
+        <h1 class="display-4 main-title">Image Converter</h1>
+        <p>Convert images for free, simply drop your image below</p>
+        <div class="image-drop">
+            <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="UploadImage">
+                <div class="inner-content">
+                    <h2>Convert to: </h2>
+                    <select class="form-select-sm" asp-for="ImageType" asp-items="@Model.ImageTypes">
+                    </select>
 
-<div class="text-center">
-    <h1 class="display-4 main-title">Image Converter</h1>
-    <p>Convert images for free, simply drop your image below</p>
-    <div class="image-drop">
+                    <h2>Choose image:</h2>
+                    <input name="image" type="file" accept="image/*" />
 
-        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="UploadImage">
+                    <h2>Change File Name(Optional): </h2>
+                    <input name="ImageName" type="text" placeholder="image" />
 
-            <h2>Convert to: </h2>
-            <select class="form-select-sm" asp-for="ImageType" asp-items="@Model.ImageTypes">
-            </select>
-
-            <h2>Choose image:</h2>
-            <input name="image" type="file" accept="image/*" />
-
-            <h2>Change File Name(Optional): </h2>
-
-            <input name="ImageName" type="text" placeholder="image" />
-            <hr />
-            <input class="btn btn-outline-primary" type="submit" value="Upload"/>
-        </form>
+                    <hr />
+                    <input class="btn btn-outline-primary" type="submit" value="Upload" />
+                </div>
+            </form>
+        </div>
     </div>
-</div>
+</body>

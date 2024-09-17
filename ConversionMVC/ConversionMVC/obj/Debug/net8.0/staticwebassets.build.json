@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2SKdT8YE/x1Ai28ZpuYDRhvTtw1Ym5mF8HEiSZtcAlE=",
+  "Hash": "0ihZGuqR5VKZ8CskcFEADhOOOnmUBKu0SM8H2ykQR0E=",
   "Source": "ConversionMVC",
   "BasePath": "_content/ConversionMVC",
   "Mode": "Default",
@@ -1212,6 +1212,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\Z-convertIcon.ico",
+      "SourceId": "ConversionMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\",
+      "BasePath": "_content/ConversionMVC",
+      "RelativePath": "Z-convertIcon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Z-convertIcon.ico"
     }
   ]
 }

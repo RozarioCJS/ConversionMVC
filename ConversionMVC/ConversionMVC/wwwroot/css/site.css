@@ -30,8 +30,11 @@ ul.nav-list {
 }
 .image-drop{
     border: 3px dotted blue;
-    padding: 5em;
+    padding-bottom: 3.5em;
 }
 a {
     text-decoration: none;
+}
+.inner-content h2{
+    margin-top: 1em;
 }
