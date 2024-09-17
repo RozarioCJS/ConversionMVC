@@ -1,19 +1,26 @@
-﻿@{
+﻿@model ImageTypeViewModel
+@{
     ViewData["Title"] = "Image Converter";
 }
 
 <div class="text-center">
     <h1 class="display-4 main-title">Image Converter</h1>
     <p>Convert images for free, simply drop your image below</p>
-    <p>Converts images to to jpg</p>
     <div class="image-drop">
 
         <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="UploadImage">
 
-            <h2>Choose image</h2>
+            <h2>Convert to: </h2>
+            <select class="form-select-sm" asp-for="ImageType" asp-items="@Model.ImageTypes">
+            </select>
 
+            <h2>Choose image:</h2>
             <input name="image" type="file" accept="image/*" />
 
+            <h2>Change File Name(Optional): </h2>
+
+            <input name="ImageName" type="text" placeholder="image" />
+            <hr />
             <input class="btn btn-outline-primary" type="submit" value="Upload"/>
         </form>
     </div>

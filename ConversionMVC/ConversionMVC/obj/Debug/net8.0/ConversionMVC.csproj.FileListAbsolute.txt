@@ -28,3 +28,4 @@ C:\Users\sodie\Coding\C#\MVCProjects\ConversionMVC\ConversionMVC\ConversionMVC\o
 C:\Users\sodie\Coding\C#\MVCProjects\ConversionMVC\ConversionMVC\ConversionMVC\obj\Debug\net8.0\ConversionMVC.pdb
 C:\Users\sodie\Coding\C#\MVCProjects\ConversionMVC\ConversionMVC\ConversionMVC\obj\Debug\net8.0\ConversionMVC.genruntimeconfig.cache
 C:\Users\sodie\Coding\C#\MVCProjects\ConversionMVC\ConversionMVC\ConversionMVC\obj\Debug\net8.0\ref\ConversionMVC.dll
+C:\Users\sodie\Coding\C#\MVCProjects\ConversionMVC\ConversionMVC\ConversionMVC\obj\Debug\net8.0\ConversionMVC.sourcelink.json
