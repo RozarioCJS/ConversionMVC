@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|solutionrelative:conversionmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|c:\\users\\sodie\\coding\\c#\\mvcprojects\\conversionmvc\\conversionmvc\\conversionmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|solutionrelative:conversionmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|c:\\users\\sodie\\coding\\c#\\mvcprojects\\conversionmvc\\conversionmvc\\conversionmvc\\models\\imagetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|solutionrelative:conversionmvc\\models\\imagetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|c:\\users\\sodie\\coding\\c#\\mvcprojects\\conversionmvc\\conversionmvc\\conversionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|solutionrelative:conversionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|c:\\users\\sodie\\coding\\c#\\mvcprojects\\conversionmvc\\conversionmvc\\conversionmvc\\models\\imagetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D7CF9D-BDA5-4DBF-A4BC-D72BA6F8762D}|ConversionMVC\\ConversionMVC.csproj|solutionrelative:conversionmvc\\models\\imagetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +52,7 @@
               "RelativeDocumentMoniker": "ConversionMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ConversionMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T14:57:17.922Z",
               "EditorCaption": ""
@@ -69,14 +65,14 @@
               "RelativeDocumentMoniker": "ConversionMVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ConversionMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-22T13:18:52.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ImageTypeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\Models\\ImageTypeViewModel.cs",
               "RelativeDocumentMoniker": "ConversionMVC\\Models\\ImageTypeViewModel.cs",
@@ -85,19 +81,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T08:21:08.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ConversionMVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ConversionMVC\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-22T15:57:37.819Z",
               "EditorCaption": ""
             }
           ]
