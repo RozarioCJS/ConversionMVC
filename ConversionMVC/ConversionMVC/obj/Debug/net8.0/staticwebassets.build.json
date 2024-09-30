@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0ihZGuqR5VKZ8CskcFEADhOOOnmUBKu0SM8H2ykQR0E=",
+  "Hash": "VgwBBmLToOCEel4Q6EsezgjP+JlnQ5yxFe+fEQpDE0E=",
   "Source": "ConversionMVC",
   "BasePath": "_content/ConversionMVC",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ConversionMVC.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\ArduinoDrawer.mp4",
+      "SourceId": "ConversionMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\",
+      "BasePath": "_content/ConversionMVC",
+      "RelativePath": "ArduinoDrawer.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ArduinoDrawer.mp4"
     },
     {
       "Identity": "C:\\Users\\sodie\\Coding\\C#\\MVCProjects\\ConversionMVC\\ConversionMVC\\ConversionMVC\\wwwroot\\css\\site.css",
